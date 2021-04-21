@@ -1,8 +1,0 @@
-{
-	"hooks": [
-		{
-            "name": "app.payment.processor.TOSHI",
-            "script": "./payment/processor/TOSHI"
-        }
-	]
-}
